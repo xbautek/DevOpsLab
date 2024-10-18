@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x 8 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:41 .
+drwxr-x--- 6 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:39 ..
+drwxrwxr-x 3 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 .idea
+drwxrwxr-x 4 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 .vs
+drwxrwxr-x 3 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 Core
+-rw-rw-r-- 1 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl    0 Oct 18 13:41 DevOpsLab
+drwxrwxr-x 2 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 Infrastructure
+drwxrwxr-x 2 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 University_database_queries
+drwxrwxr-x 4 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 4096 Oct 18 13:32 WebAPI
+-rw-rw-r-- 1 bartosz.ksiazek@microsoft.wsei.edu.pl bartosz.ksiazek@microsoft.wsei.edu.pl 1723 Oct 18 13:32 backend-project.sln
